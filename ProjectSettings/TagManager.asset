@@ -12,8 +12,8 @@ TagManager:
   - Water
   - UI
   - 
-  - 
-  - 
+  - GrassLayer
+  - DirtLayer
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: GrassLayer
+    uniqueID: 3575314039
+    locked: 0
+  - name: DirtLayer
+    uniqueID: 794022693
     locked: 0
